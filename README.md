@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.9](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.7...v0.1.9) (2022-05-20)
+
+
+### Features
+
+* **image-details:** open full image in new tab when clicking on image ([d4df2c6](https://github.com/Bolton-and-Menk/geocp-projects/commit/d4df2c69411595de26f48dffd55097e763c94c04))
+* improved mobile responsive design ([cdfdb5b](https://github.com/Bolton-and-Menk/geocp-projects/commit/cdfdb5b3f814fe737f5d5609baff99c369bc3644))
+* show version history when clicking on version number ([ecf276e](https://github.com/Bolton-and-Menk/geocp-projects/commit/ecf276eb9fd4fe5b95480a0a8d9f7de21ff2574b))
+* use tabbed view for project home on mobile ([7e25187](https://github.com/Bolton-and-Menk/geocp-projects/commit/7e25187e3bb50baf8eebde0f668ea163bf4842a7))
+
+### 0.1.8 (2022-05-20)
+
 ### [0.1.7](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.6...v0.1.7) (2022-05-19)
 
 
