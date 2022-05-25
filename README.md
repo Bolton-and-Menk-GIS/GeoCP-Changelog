@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.9...v0.1.10) (2022-05-25)
+
+
+### Features
+
+* integrate tags with openasset ([6d9cf41](https://github.com/Bolton-and-Menk/geocp-projects/commit/6d9cf41a7134a6d2aedc6c1c984ac94b7d06fb46))
+* **project-info:** validate form immediately ([f6a400a](https://github.com/Bolton-and-Menk/geocp-projects/commit/f6a400a2a3002124502b5ae96028a7b6bb483801))
+* sort tags alphabetically ([7dd5c92](https://github.com/Bolton-and-Menk/geocp-projects/commit/7dd5c92c4f7e17ed7eba49d103dbab7bfcea44fb))
+
+
+### Bug Fixes
+
+* broken public link from project card ([fc6d7d7](https://github.com/Bolton-and-Menk/geocp-projects/commit/fc6d7d7c9b42b5279fba6c9c02e7321a9b3b81a5))
+* load all projects when user logs in after using public access token ([2cc1bbb](https://github.com/Bolton-and-Menk/geocp-projects/commit/2cc1bbb9df1c07fba5d0a613ce2c5a803e62586a))
+
 ### [0.1.9](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.7...v0.1.9) (2022-05-20)
 
 
