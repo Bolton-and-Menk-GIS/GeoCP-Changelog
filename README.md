@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.11](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.10...v0.1.11) (2022-06-02)
+
+
+### Features
+
+* support shapefile exports ([fe3487e](https://github.com/Bolton-and-Menk/geocp-projects/commit/fe3487ef22c3da006c327571ca6bfb5588ebc933))
+
 ### [0.1.10](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.9...v0.1.10) (2022-05-25)
 
 
