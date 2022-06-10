@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.13](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.12...v0.1.13) (2022-06-10)
+
+
+### Features
+
+* **map:** make basemap widget configurable ([f9fbb81](https://github.com/Bolton-and-Menk/geocp-projects/commit/f9fbb81b29dd97269540c1369fd67f34a4f21390))
+
+
+### Bug Fixes
+
+* fixed public token parser ([2a894b2](https://github.com/Bolton-and-Menk/geocp-projects/commit/2a894b21c75526207710439fdae353786ec5e177))
+* make project description optional ([f57f247](https://github.com/Bolton-and-Menk/geocp-projects/commit/f57f24725d0f94ebc5d7f10fe9acbb0af4cdd4bc))
+* **thumbnail-view:** do not let public users set image locations with missing gps ([3fb3027](https://github.com/Bolton-and-Menk/geocp-projects/commit/3fb30273f1e45867759aab57ce9d46d125076b90))
+
 ### [0.1.12](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.11...v0.1.12) (2022-06-10)
 
 
