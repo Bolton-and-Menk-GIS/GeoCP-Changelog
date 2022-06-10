@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.12](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.11...v0.1.12) (2022-06-10)
+
+
+### Features
+
+* **auth:** support refreshing session and improved auth manager ([0c1ec34](https://github.com/Bolton-and-Menk/geocp-projects/commit/0c1ec3407892a5cca993586da3d9446fc4056023))
+* **project-card:** added quick action buttons ([a2285c6](https://github.com/Bolton-and-Menk/geocp-projects/commit/a2285c6e447457aacf06d565bd086f7310779c5d))
+* **thumbnail-view:** support adding location for photos with missing gps info ([8b8db49](https://github.com/Bolton-and-Menk/geocp-projects/commit/8b8db490230336011ffccde67f24fb0e652c0f3a))
+
+
+### Bug Fixes
+
+* fixed race condition on restoring auth session ([8ed0b59](https://github.com/Bolton-and-Menk/geocp-projects/commit/8ed0b5940f67355ce32d63f8d6d9ea9450d64fb0))
+* **photo-viewer:** hide loader when project has been loaded ([e1846bd](https://github.com/Bolton-and-Menk/geocp-projects/commit/e1846bd13f6f8f63a7a342273519840c48a8fdf8))
+
 ### [0.1.11](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.10...v0.1.11) (2022-06-02)
 
 
