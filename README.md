@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.15](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.14...v0.1.15) (2022-06-23)
+
+
+### Features
+
+* allow user to toggle photo direction symbols and clustering ([f3bc06e](https://github.com/Bolton-and-Menk/geocp-projects/commit/f3bc06ed3398bf9618f8e04b28a4c8fb55feec91))
+* **create-project:** convert unc paths to mapped folder drives (panzura only) ([ee5f7d6](https://github.com/Bolton-and-Menk/geocp-projects/commit/ee5f7d60c17dcea8c448047ea63573e07bac7ea6))
+
 ### [0.1.14](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.13...v0.1.14) (2022-06-20)
 
 
