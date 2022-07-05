@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.16](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.15...v0.1.16) (2022-07-05)
+
+
+### Features
+
+* make flask environment configurable ([dc8daa3](https://github.com/Bolton-and-Menk/geocp-projects/commit/dc8daa3b5fca504c54d7f8402d0dc0e76e707a1d))
+
 ### [0.1.15](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.14...v0.1.15) (2022-06-23)
 
 
