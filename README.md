@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.17](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.16...v0.1.17) (2022-07-07)
+
+
+### Features
+
+* scroll to thumbnail when clicking on map ([4c68698](https://github.com/Bolton-and-Menk/geocp-projects/commit/4c686985f1ccdb419a6f00239e27d0a4ce921d2a))
+
 ### [0.1.16](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.15...v0.1.16) (2022-07-05)
 
 
