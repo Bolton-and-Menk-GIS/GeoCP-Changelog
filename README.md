@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.18](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.17...v0.1.18) (2022-07-07)
+
+
+### Features
+
+* **action-pandel:** allow user to view changelog, submit issue or enhancement ([aa6a6b2](https://github.com/Bolton-and-Menk/geocp-projects/commit/aa6a6b2006f4fc59e2fabe2c1ecdfaf3c8ce6079))
+
 ### [0.1.17](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.16...v0.1.17) (2022-07-07)
 
 
