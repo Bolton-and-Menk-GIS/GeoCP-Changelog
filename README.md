@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.19](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.18...v0.1.19) (2022-07-08)
+
+
+### Bug Fixes
+
+* fixed image details url source ([eb22c67](https://github.com/Bolton-and-Menk/geocp-projects/commit/eb22c67998f850c711289b3245f24536441c37b2))
+* fixed user profile state bug ([f5ae3af](https://github.com/Bolton-and-Menk/geocp-projects/commit/f5ae3afa0c4450ba8f2e9d56bfbec75e670c7402))
+
 ### [0.1.18](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.17...v0.1.18) (2022-07-07)
 
 
