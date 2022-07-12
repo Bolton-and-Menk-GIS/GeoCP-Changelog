@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.20](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.19...v0.1.20) (2022-07-12)
+
+
+### Features
+
+* inceased banner preview size for create project ([487018c](https://github.com/Bolton-and-Menk/geocp-projects/commit/487018c7280b2dda0d34345adc0a57c0ed1f5ea0))
+* **user-info:** show public view context info ([18ef2ab](https://github.com/Bolton-and-Menk/geocp-projects/commit/18ef2abd14fb7c4b381f8e8b1e280ec12d4a21b4))
+
+
+### Bug Fixes
+
+* **create-project:** fix bug with resetting form after project is submitted ([2f2fdac](https://github.com/Bolton-and-Menk/geocp-projects/commit/2f2fdac174fc0735220af49def96b6824715f289))
+
 ### [0.1.19](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.18...v0.1.19) (2022-07-08)
 
 
