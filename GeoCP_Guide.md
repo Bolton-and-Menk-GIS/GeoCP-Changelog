@@ -1,3 +1,28 @@
+-   <a href="#geocp-tool-2022-update" id="toc-geocp-tool-2022-update">GeoCP
+    Tool (2022 Update)</a>
+    -   <a href="#using-the-application" id="toc-using-the-application">Using
+        the Application</a>
+    -   <a href="#viewing-a-project" id="toc-viewing-a-project">Viewing a
+        Project</a>
+        -   <a href="#image-controls" id="toc-image-controls">Image Controls</a>
+        -   <a href="#map-controls" id="toc-map-controls">Map Controls</a>
+        -   <a href="#the-action-panel" id="toc-the-action-panel">The Action
+            Panel</a>
+        -   <a href="#dark-mode" id="toc-dark-mode">Dark Mode</a>
+    -   <a href="#creating-a-new-geocp-project"
+        id="toc-creating-a-new-geocp-project">Creating a new GeoCP Project</a>
+    -   <a href="#advanced-usage" id="toc-advanced-usage">Advanced Usage</a>
+        -   <a href="#adding-image-tags" id="toc-adding-image-tags">Adding Image
+            Tags</a>
+        -   <a href="#filtering" id="toc-filtering">Filtering</a>
+        -   <a href="#manually-assigning-location-for-photos"
+            id="toc-manually-assigning-location-for-photos">Manually Assigning
+            Location for Photos</a>
+    -   <a href="#sharing-a-project" id="toc-sharing-a-project">Sharing a
+        Project</a>
+    -   <a href="#feedback-and-changelog"
+        id="toc-feedback-and-changelog">Feedback and Changelog</a>
+
 # GeoCP Tool (2022 Update)
 
 User Guide
