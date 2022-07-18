@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.22](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.21...v0.1.22) (2022-07-18)
+
+
+### Features
+
+* **home:** make project list overflow option config driven ([f4f8394](https://github.com/Bolton-and-Menk/geocp-projects/commit/f4f8394e7a42aed6f86f592a7cdc79e19ed94c03))
+
+
+### Bug Fixes
+
+* **flask:** clear user session on failed token refresh ([968ff31](https://github.com/Bolton-and-Menk/geocp-projects/commit/968ff3179a1b3d2e50b3f222698f9e43eba071c7))
+* **home:** fix filter bug on determining to show only my projects ([442100d](https://github.com/Bolton-and-Menk/geocp-projects/commit/442100d92e1169678ea007eb2e51b77800114c54))
+
 ### [0.1.21](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.20...v0.1.21) (2022-07-14)
 
 
