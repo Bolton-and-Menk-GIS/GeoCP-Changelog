@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.23](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.22...v0.1.23) (2022-07-20)
+
+
+### Bug Fixes
+
+* **map-view:** fixed empty basemap bug from user preferences ([1e023a9](https://github.com/Bolton-and-Menk/geocp-projects/commit/1e023a974cd2b4f509d07cf5225a4e01ff7796de))
+
 ### [0.1.22](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.21...v0.1.22) (2022-07-18)
 
 
