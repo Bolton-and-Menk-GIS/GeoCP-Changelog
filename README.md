@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.24](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.23...v0.1.24) (2022-07-27)
+### Features
+
+* emit theme changed event ([bb20777](https://github.com/Bolton-and-Menk/geocp-projects/commit/bb207778398bc6c12985582c9495fd1d34dae19b))
+
+
+### Bug Fixes
+
+* fixed basemap switching bug on theme switch ([0bee9c3](https://github.com/Bolton-and-Menk/geocp-projects/commit/0bee9c38160ef11f40c7775058fa29677f5c9829))
+
+* remove duplicate photo tags from open asset ([c829349](https://github.com/Bolton-and-Menk/geocp-projects/commit/c82934971c274abe32da9b6bb5f563a529faa154))
+
+
 ### [0.1.23](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.22...v0.1.23) (2022-07-20)
 
 
