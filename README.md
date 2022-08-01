@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.25](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.24...v0.1.25) (2022-08-01)
+
+
+### Bug Fixes
+
+* **create-project:** improved project number parser ([f88ee98](https://github.com/Bolton-and-Menk/geocp-projects/commit/f88ee9815693919e2ef280a26cb13c9242c87611))
+
 ### [0.1.24](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.23...v0.1.24) (2022-07-27)
 ### Features
 
