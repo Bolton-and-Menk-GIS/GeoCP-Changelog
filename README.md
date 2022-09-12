@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.27](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.26...v0.1.27) (2022-09-12)
+
+
+### Features
+
+* use vantage point to pull clients and vision projects ([c62fdb2](https://github.com/Bolton-and-Menk/geocp-projects/commit/c62fdb20bbc62498a71ff22fa5f417bc90004286))
+
 ### [0.1.26](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.25...v0.1.26) (2022-08-11)
 
 
