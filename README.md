@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.28](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.27...v0.1.28) (2022-09-12)
+
+
+### Bug Fixes
+
+* remove null values for date_taken in photo filters ([9246478](https://github.com/Bolton-and-Menk/geocp-projects/commit/92464781656acc9a2d275a695446cac544116fc0))
+
 ### [0.1.27](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.26...v0.1.27) (2022-09-12)
 
 
