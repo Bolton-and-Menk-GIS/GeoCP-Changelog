@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.29](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.28...v0.1.29) (2022-09-13)
+
+
+### Features
+
+* use overflow for main app container in projects view ([49dae8d](https://github.com/Bolton-and-Menk/geocp-projects/commit/49dae8d02ac427ac417091ecab944c6799a3b632))
+
 ### [0.1.28](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.27...v0.1.28) (2022-09-12)
 
 
