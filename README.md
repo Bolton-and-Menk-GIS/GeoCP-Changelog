@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.0.0...v2.0.1) (2022-10-13)
+
+
+### Bug Fixes
+
+* make sure _perPage is integer for pagination ([6c9dfc7](https://github.com/Bolton-and-Menk/geocp-projects/commit/6c9dfc7d0b2c054d87c57ff03b7bf7155e2bd3eb))
+
 ## [2.0.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.30...v2.0.0) (2022-10-03)
 
 ### [0.1.30](https://github.com/Bolton-and-Menk/geocp-projects/compare/v0.1.29...v0.1.30) (2022-09-28)
