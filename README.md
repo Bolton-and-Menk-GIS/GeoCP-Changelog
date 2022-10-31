@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.0.1...v2.1.0) (2022-10-31)
+
+
+### Features
+
+* add lightweight viewer for 360 degree images ([649a699](https://github.com/Bolton-and-Menk/geocp-projects/commit/649a6996a42461788f9e2d912fc0d2869694785b))
+
 ### [2.0.1](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.0.0...v2.0.1) (2022-10-13)
 
 
