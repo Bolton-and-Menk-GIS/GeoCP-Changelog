@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+
+## [2.2.1](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.1.0...v2.2.0) (2022-11-01)
+
+
+### Features
+
+* **user-settings:** remember show my projects toggle state ([b609567](https://github.com/Bolton-and-Menk/geocp-projects/commit/b6095670ee94faa9aba430965201f74c83661f05))
+
+
+### Bug Fixes
+
+* **image-details:** show image details caption overlay on 360 images ([ee5ef46](https://github.com/Bolton-and-Menk/geocp-projects/commit/ee5ef46068f5a0b0eab08dbb939c6e07a6958ad5))
+
 ## [2.1.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.0.1...v2.1.0) (2022-10-31)
 
 
