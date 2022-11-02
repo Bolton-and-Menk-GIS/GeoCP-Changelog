@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 
+## [2.2.2](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.1...v2.3.0) (2022-11-02)
+
+
+### Features
+
+* added staging deployment script ([5f00622](https://github.com/Bolton-and-Menk/geocp-projects/commit/5f006227c4245031e62ac887853530179253bfdf))
+* **config:** added development env for config ([b80ab18](https://github.com/Bolton-and-Menk/geocp-projects/commit/b80ab18c18e66183b222410be3fbc03f37e0b3a3))
+
 ## [2.2.1](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.1.0...v2.2.0) (2022-11-01)
 
 
