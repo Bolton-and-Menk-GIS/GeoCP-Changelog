@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.3](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.2...v2.2.3) (2022-11-02)
+
+
+### Bug Fixes
+
+* **image-details:** resolved image url inconsistency issue ([a575e8d](https://github.com/Bolton-and-Menk/geocp-projects/commit/a575e8df384c30cc923cd7cc75dcda2bc0591db1))
 
 ## [2.2.2](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.1...v2.3.0) (2022-11-02)
 
