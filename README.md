@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.4.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.3...v2.4.0) (2022-11-30)
+
+
+### Features
+
+* **mapview:** improved performance for map view ([34d7387](https://github.com/Bolton-and-Menk/geocp-projects/commit/34d7387712652393de4e2f1eef6b19a4e16a68f9))
+
+## [2.3.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.3...v2.3.0) (2022-11-30)
+
+
+### Features
+
+* **mapview:** improved performance for map view ([34d7387](https://github.com/Bolton-and-Menk/geocp-projects/commit/34d7387712652393de4e2f1eef6b19a4e16a68f9))
+
 ### [2.2.3](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.2...v2.2.3) (2022-11-02)
 
 
