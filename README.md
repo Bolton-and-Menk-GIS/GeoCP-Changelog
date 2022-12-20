@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.2](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.1...v2.4.2) (2022-12-20)
+
+
+### Features
+
+* increment photo views from new endpoint ([016be04](https://github.com/Bolton-and-Menk/geocp-projects/commit/016be04fddd20a61e53971d5c666856fb9642da8))
+
 ### [2.4.1](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.0...v2.4.1) (2022-12-15)
 
 
