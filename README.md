@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.3](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.2...v2.4.3) (2023-01-11)
+
+
+### Bug Fixes
+
+* **projects:** prevent project photos from being loaded without valid project_id ([41ec259](https://github.com/Bolton-and-Menk/geocp-projects/commit/41ec259a0a02828bb9ae6fa60ccefcca9b1119e9))
+
 ### [2.4.2](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.1...v2.4.2) (2022-12-20)
 
 
@@ -14,7 +21,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* emit 'did-load-project-photos' event for public projects ([d0b8b8c](https://github.com/Bolton-and-Menk/geocp-projects/commit/d0b8b8c3e09ba373020fbf4f9ca9e6918abf3998))
+* emit 'loaded-project-photos' event for public projects ([d0b8b8c](https://github.com/Bolton-and-Menk/geocp-projects/commit/d0b8b8c3e09ba373020fbf4f9ca9e6918abf3998))
 
 ## [2.4.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.2.3...v2.4.0) (2022-11-30)
 
