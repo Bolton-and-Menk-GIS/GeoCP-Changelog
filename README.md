@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.3...v2.5.0) (2023-01-13)
+
+
+### Features
+
+* **action-item:** support spinners and badges ([6391b1b](https://github.com/Bolton-and-Menk/geocp-projects/commit/6391b1b43d9955e9e55ffd09d6273719d47583d6))
+* **project-details:** show project creator at bottom of page ([1eba53c](https://github.com/Bolton-and-Menk/geocp-projects/commit/1eba53c7127bdf34e6e7c1f59d86fe2f63d7cd13))
+* **projects:** added the ability to hide images ([8c601be](https://github.com/Bolton-and-Menk/geocp-projects/commit/8c601be90177489f7f952e67f41c08543eef0779))
+
 ### [2.4.3](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.2...v2.4.3) (2023-01-11)
 
 
