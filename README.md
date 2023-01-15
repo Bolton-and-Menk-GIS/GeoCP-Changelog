@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.2](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.1...v2.5.2) (2023-01-15)
+
+
+### Features
+
+* **action-panel-item:** added property to set badge color ([f4ac0b2](https://github.com/Bolton-and-Menk/geocp-projects/commit/f4ac0b22d51c8e26e20e1a80612a2294072a4c3d))
+
+
+### Bug Fixes
+
+* do not use fields filter for openasset keywords search ([e3160e1](https://github.com/Bolton-and-Menk/geocp-projects/commit/e3160e11310945dead99588a1c1491b9033a76ec))
+* **image-tags:** update model value for image tags ([d7658e3](https://github.com/Bolton-and-Menk/geocp-projects/commit/d7658e3a1495ccd800daf0e8846dee334aa16ca9))
+
+### [2.5.1](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.0...v2.5.1) (2023-01-13)
+
+
+### Features
+
+* **action-panel-item:** add disabled property ([17235e8](https://github.com/Bolton-and-Menk/geocp-projects/commit/17235e8f032cb062881c7393ba4fb50067bbb951))
+* **projects:** all users to toggle project photo visibility on and off ([514ddde](https://github.com/Bolton-and-Menk/geocp-projects/commit/514ddde44ab4e656a56021b48f4415bd27dc3a5b))
+* prompt user before hiding photos ([4883fd1](https://github.com/Bolton-and-Menk/geocp-projects/commit/4883fd16d04ccedf0abe74869631682b6b7fcf2c))
+
 ## [2.5.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.4.3...v2.5.0) (2023-01-13)
 
 
