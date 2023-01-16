@@ -16,10 +16,10 @@
             Tags</a>
         -   <a href="#filtering" id="toc-filtering">Filtering</a>
         -   <a href="#manually-assigning-location-for-photos"
-            id="toc-manually-assigning-location-for-photos">Manually Assigning
-            Location for Photos</a>
-    -   <a href="#sharing-a-project" id="toc-sharing-a-project">Sharing a
-        Project</a>
+            id="toc-manually-assigning-location-for-photos">Manuall Assigning Location for Photos</a>
+    -   <a href="#hiding-photos-in-a-project" id="toc-hiding-photos-in-a-project">Hiding Photos in a Project</a>
+        -   <a href="#viewing-hidden-images" id="toc-viewing-hidden-images">Viewing Hidden Images</a>
+    -   <a href="#sharing-a-project" id="toc-sharing-a-project">Sharing a Project</a>
     -   <a href="#feedback-and-changelog"
         id="toc-feedback-and-changelog">Feedback and Changelog</a>
 
@@ -525,6 +525,43 @@ you to zoom to the “manually placed image” location:
 
 <img src="./images/media/image56.png"
 style="width:2.84375in;height:2.16667in" />
+
+## Hiding Photos in a Project
+
+Sometimes when a new project is created, you may find that there are unwanted photos being displayed in the application. If the images are important, such as field notes, it makes more sense to hide them in the app rather than delete them from the file system and running a project sync. If you are the creator of a project, you have the ability to hide photos. This is available once you have an image selection: 
+
+<img src="./images/media/image61.png"
+style="width:5in;" />
+
+To hide the images, hit the "Hide Photos" button to confirm:
+
+<img src="./images/media/image62.png"
+style="width:5in;" />
+
+### Viewing Hidden Images
+
+If there are hidden images, they can be viewed if you are the project owner by clicking the "View Hidden Images" button:
+
+<img src="./images/media/image63.png"
+style="width:5in;" />
+
+Once in the Hidden Images view, you can go back to visible images by hitting the "View Visible Images" button:
+
+
+<img src="./images/media/image64.png"
+style="width:5in;" />
+
+Or, you can make the project photos visible again by starting a new image selection (hit the `Enable Image Selection` button) and selecting the photos you want to make visible to project and hit the "Make Selected Images Visible" button:
+
+<img src="./images/media/image65.png"
+style="width:5in;" />
+
+Hit the "Show Photos" button to confirm that you want to un-hide the images from the project:
+
+<img src="./images/media/image66.png"
+style="width:5in;" />
+
+This will make the images visible again. If there are no more visible images left, it will automatically switch back to the visible image view.
 
 ## Sharing a Project
 

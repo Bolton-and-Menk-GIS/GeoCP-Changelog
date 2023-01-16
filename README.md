@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.3](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.2...v2.5.3) (2023-01-16)
+
+
+### Bug Fixes
+
+* **action-panel:** switch back to visible image view after showing all hidden photos ([72ef3f5](https://github.com/Bolton-and-Menk/geocp-projects/commit/72ef3f5e6b9781913103105c6305da3e5c61f154))
+
 ### [2.5.2](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.1...v2.5.2) (2023-01-15)
 
 
