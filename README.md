@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.4](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.3...v2.5.4) (2023-01-23)
+
+
+### Features
+
+* **projects:** added sort functionality for projects ([89ccadd](https://github.com/Bolton-and-Menk/geocp-projects/commit/89ccadd56ac7fab3ac63c95f90331987198684c5))
+* show date created for projects ([adaadae](https://github.com/Bolton-and-Menk/geocp-projects/commit/adaadae05d692b6a6b890aaadb2a49506e1b036b))
+
 ### [2.5.3](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.2...v2.5.3) (2023-01-16)
 
 
