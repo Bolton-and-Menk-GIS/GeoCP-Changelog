@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.5...v2.6.0) (2023-03-13)
+
+
+### Features
+
+* implemented asure SSO ([2d67b04](https://github.com/Bolton-and-Menk/geocp-projects/commit/2d67b04941093c899cbb10467617ff351b0877a7))
+
+
+### Bug Fixes
+
+* fixed project zoom issue on load ([d748d03](https://github.com/Bolton-and-Menk/geocp-projects/commit/d748d03bc43bb3013bc70859361f0cc84a82dc19))
+* **router:** make sure to redirect to nested route after oauth flow ([aa42b95](https://github.com/Bolton-and-Menk/geocp-projects/commit/aa42b958c8ebc836d23dce1fce61dc4ec1174868))
+
 ### [2.5.5](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.4...v2.5.5) (2023-01-23)
 
 
