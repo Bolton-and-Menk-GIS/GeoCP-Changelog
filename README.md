@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.1](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.7.0...v2.7.1) (2023-05-31)
+
+
+### Bug Fixes
+
+* **project-info:** only make read only for existing projects when not the owner ([885ded4](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/885ded45c16049448a1c228e844f38a7c1d0dab0))
+
 ## [2.7.0](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.6.0...v2.7.0) (2023-05-31)
 
 
