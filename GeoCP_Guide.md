@@ -1,27 +1,27 @@
--   <a href="#geocp-tool-2022-update" id="toc-geocp-tool-2022-update">GeoCP
-    Tool (2022 Update)</a>
-    -   <a href="#using-the-application" id="toc-using-the-application">Using
-        the Application</a>
-    -   <a href="#viewing-a-project" id="toc-viewing-a-project">Viewing a
-        Project</a>
-        -   <a href="#image-controls" id="toc-image-controls">Image Controls</a>
-        -   <a href="#map-controls" id="toc-map-controls">Map Controls</a>
-        -   <a href="#the-action-panel" id="toc-the-action-panel">The Action
-            Panel</a>
-        -   <a href="#dark-mode" id="toc-dark-mode">Dark Mode</a>
-    -   <a href="#creating-a-new-geocp-project"
-        id="toc-creating-a-new-geocp-project">Creating a new GeoCP Project</a>
-    -   <a href="#advanced-usage" id="toc-advanced-usage">Advanced Usage</a>
-        -   <a href="#adding-image-tags" id="toc-adding-image-tags">Adding Image
-            Tags</a>
-        -   <a href="#filtering" id="toc-filtering">Filtering</a>
-        -   <a href="#manually-assigning-location-for-photos"
-            id="toc-manually-assigning-location-for-photos">Manuall Assigning Location for Photos</a>
-    -   <a href="#hiding-photos-in-a-project" id="toc-hiding-photos-in-a-project">Hiding Photos in a Project</a>
-        -   <a href="#viewing-hidden-images" id="toc-viewing-hidden-images">Viewing Hidden Images</a>
-    -   <a href="#sharing-a-project" id="toc-sharing-a-project">Sharing a Project</a>
-    -   <a href="#feedback-and-changelog"
-        id="toc-feedback-and-changelog">Feedback and Changelog</a>
+- <a href="#geocp-tool-2022-update" id="toc-geocp-tool-2022-update">GeoCP
+  Tool (2022 Update)</a>
+  - <a href="#using-the-application" id="toc-using-the-application">Using
+    the Application</a>
+  - <a href="#viewing-a-project" id="toc-viewing-a-project">Viewing a
+    Project</a>
+    - <a href="#image-controls" id="toc-image-controls">Image Controls</a>
+    - <a href="#map-controls" id="toc-map-controls">Map Controls</a>
+    - <a href="#the-action-panel" id="toc-the-action-panel">The Action
+      Panel</a>
+    - <a href="#dark-mode" id="toc-dark-mode">Dark Mode</a>
+  - <a href="#creating-a-new-geocp-project"
+    id="toc-creating-a-new-geocp-project">Creating a new GeoCP Project</a>
+  - <a href="#advanced-usage" id="toc-advanced-usage">Advanced Usage</a>
+    - <a href="#adding-image-tags" id="toc-adding-image-tags">Adding Image
+      Tags</a>
+    - <a href="#filtering" id="toc-filtering">Filtering</a>
+    - <a href="#manually-assigning-location-for-photos"
+      id="toc-manually-assigning-location-for-photos">Manually Assigning
+      Location for Photos</a>
+  - <a href="#sharing-a-project" id="toc-sharing-a-project">Sharing a
+    Project</a>
+  - <a href="#feedback-and-changelog"
+    id="toc-feedback-and-changelog">Feedback and Changelog</a>
 
 # GeoCP Tool (2022 Update)
 
@@ -212,6 +212,17 @@ should be reflected in the Project Details page:
 style="width:6.5in;height:4.38681in"
 alt="Graphical user interface, application Description automatically generated" />
 
+#### Editing a Project
+
+If you are the project owner, i.e., the original creator of the project,
+you’ll have the ability to update the project details. When you are
+satisfied with the changes, click on the “Save Changes” button to submit
+the edits. Projects can also be deleted from this section by hitting the
+“Delete Project” button:
+
+<img src="./images/media/image22.png"
+style="width:6.5in;height:2.68264in" />
+
 #### Synchronize Project
 
 Sometimes new images are added to the file structure after a project has
@@ -224,7 +235,7 @@ email will be sent when the process has completed. When you hit the
 button, you will be presented with this prompt and be sure to hit the
 “Sync Project” button to proceed with the synchronization process:
 
-<img src="./images/media/image22.png"
+<img src="./images/media/image23.png"
 style="width:3.98567in;height:2.04797in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -232,7 +243,7 @@ Here is an example of the synchronization email. It should show the
 number of new images found. You can also click on the “Take me to the
 project” button in the email to open GeoCP to this project.
 
-<img src="./images/media/image23.png" style="width:6.5in;height:4.025in"
+<img src="./images/media/image24.png" style="width:6.5in;height:4.025in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 **Note**: it is very important to keep the project folder structure
@@ -250,7 +261,7 @@ map. The user can then hit the “Tag Image Selection” button to start the
 batch tagging operation. This is discussed in further detail in the
 Advanced Usage section.
 
-<img src="./images/media/image24.png"
+<img src="./images/media/image25.png"
 style="width:6.5in;height:4.59375in" />
 
 #### Download Shapefile
@@ -267,19 +278,19 @@ mode will provide an ideal viewing experience in low-light environments.
 This can be toggled on and off in the Action Panel next to the user
 profile information.
 
-<img src="./images/media/image25.png"
+<img src="./images/media/image26.png"
 style="width:6.5in;height:3.68333in"
 alt="Graphical user interface Description automatically generated" />
 
-<img src="./images/media/image26.png"
+<img src="./images/media/image27.png"
 style="width:3.35461in;height:3.37002in"
 alt="A picture containing text, grass, electronics, display Description automatically generated" />
 
-<img src="./images/media/image27.png"
+<img src="./images/media/image28.png"
 style="width:4.38178in;height:4.11868in"
 alt="A screenshot of a computer Description automatically generated with medium confidence" />
 
-<img src="./images/media/image28.png"
+<img src="./images/media/image29.png"
 style="width:6.85048in;height:3.87681in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -290,14 +301,14 @@ Action Panel which will open a wizard to guide the user through the
 process of creating a new project. The first step requires to paste in a
 path to a folder somewhere on the **O:\\** or **H:\\** drive.
 
-<img src="./images/media/image29.png"
+<img src="./images/media/image30.png"
 style="width:6.09661in;height:3.387in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 Once you have provided a folder path, hit the “Continue” button to add
 the project details.
 
-<img src="./images/media/image30.png"
+<img src="./images/media/image31.png"
 style="width:6.13766in;height:2.67211in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -308,7 +319,7 @@ also be queried from Vision to help autofill this information. You will
 also be able to provide your own custom name if a matching name from
 Vision is not applicable.
 
-<img src="./images/media/image31.png"
+<img src="./images/media/image32.png"
 style="width:6.02742in;height:4.29196in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -318,12 +329,12 @@ displayed on the project card in the home view. This step is optional
 and if no image is added, it will default to using the first image from
 the project.
 
-<img src="./images/media/image32.png"
+<img src="./images/media/image33.png"
 style="width:6.27083in;height:3.7625in" />
 
 If you do provide an image, a preview will be rendered here:
 
-<img src="./images/media/image33.png"
+<img src="./images/media/image34.png"
 style="width:6.06546in;height:3.22325in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -331,7 +342,7 @@ If you hit “Continue” here, you will be shown a summary of all the
 project details for the new project. If everything looks correct, hit
 “Create Project” to kick off the process.
 
-<img src="./images/media/image34.png"
+<img src="./images/media/image35.png"
 style="width:6.16052in;height:4.03725in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -339,7 +350,7 @@ When the project request has been made, you will be taken to the
 “Project Request Received” page. You can return to the projects home
 page by clicking the “Go To Home Page” button.
 
-<img src="./images/media/image35.png"
+<img src="./images/media/image36.png"
 style="width:6.5in;height:1.96111in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -348,18 +359,18 @@ the server and will send an email indicating the project has been
 received and is processing and another when it has finished and the
 project is ready to be viewed.
 
-<img src="./images/media/image36.png"
+<img src="./images/media/image37.png"
 style="width:6.5in;height:5.49583in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
-<img src="./images/media/image37.png"
+<img src="./images/media/image38.png"
 style="width:6.32431in;height:4.98715in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 Clicking on the “Take me to the project” link should open the project to
 the internal application (requires VPN):
 
-<img src="./images/media/image38.png"
+<img src="./images/media/image39.png"
 style="width:6.5in;height:3.28542in"
 alt="Graphical user interface, application Description automatically generated with medium confidence" />
 
@@ -367,7 +378,7 @@ When going to the home page, you should see the new project card. If you
 chose an image as the banner that should be displayed, otherwise the
 first image of the project is used.
 
-<img src="./images/media/image39.png"
+<img src="./images/media/image40.png"
 style="width:3.95011in;height:5.30652in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -386,14 +397,14 @@ this time, descriptions and tags can only be added by authenticated
 users. Once a description and or tag has been added, be sure to hit he
 “Save Changes” button.
 
-<img src="./images/media/image40.png"
+<img src="./images/media/image41.png"
 style="width:6.5in;height:6.1in" />
 
 Clicking on the **Enable Image Selection** button in the Action Panel
 will put the project in selection mode where multiple images can be
 selected at once for batch tagging.
 
-<img src="./images/media/image41.png"
+<img src="./images/media/image42.png"
 style="width:2.88542in;height:3.89024in" />
 
 Once you have selected some images by hitting the checkbox in the upper
@@ -403,14 +414,14 @@ next to the **Tag Image Selection** button. To begin batch tagging,
 click this button to apply a description and/or tags to the entire
 selection.
 
-<img src="./images/media/image42.png"
+<img src="./images/media/image43.png"
 style="width:6.5in;height:3.9in" />
 
 Set the desired properties and click the Save Changes button to apply
 the edits. Once the changes have been saved, these properties will be
 available for filtering.
 
-<img src="./images/media/image43.png"
+<img src="./images/media/image44.png"
 style="width:5.76576in;height:2.77323in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -421,7 +432,7 @@ button in the Action Panel. When clicking this button, a modal window
 pops up with options to filter by date taken, properties, or by image
 tags.
 
-<img src="./images/media/image44.png"
+<img src="./images/media/image45.png"
 style="width:6.5in;height:2.72431in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -431,7 +442,7 @@ by Date** section, the date ranges the photos were taken are displayed
 at the bottom. This is done to help the user select valid dates so that
 results are picked up in the selection:
 
-<img src="./images/media/image45.png"
+<img src="./images/media/image46.png"
 style="width:5.07723in;height:5.26382in"
 alt="Graphical user interface, application, calendar Description automatically generated" />
 
@@ -440,7 +451,7 @@ Properties** options along with any other attributes from the images. A
 date range can be selected by clicking on the calendar to set the start
 and end dates:
 
-<img src="./images/media/image46.png"
+<img src="./images/media/image47.png"
 style="width:5.26234in;height:5.74978in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -450,27 +461,27 @@ point, or you can continue to add more property and tag filters.
 To filter by properties, first use the dropdown to choose a field to
 filter by
 
-<img src="./images/media/image47.png"
+<img src="./images/media/image48.png"
 style="width:5.96875in;height:5.21188in" />
 
 Next select the operator and provide a value. The operator dropdown
 depends on the type of property being used:
 
-<img src="./images/media/image48.png"
+<img src="./images/media/image49.png"
 style="width:5.43275in;height:3.47267in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 In this example, we will filter only by the “Study” image tag we
 provided for 7 photos.
 
-<img src="./images/media/image49.png"
+<img src="./images/media/image50.png"
 style="width:5.881in;height:5.04723in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 Hitting the Apply Filters button will run the filter set. We should only
 see the images we tagged earlier:
 
-<img src="./images/media/image50.png"
+<img src="./images/media/image51.png"
 style="width:6.5in;height:3.26042in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -479,7 +490,7 @@ then hitting Clear Filters, or by hitting the red filter button in the
 bottom right corner (only shows up when there are active filters
 applied).
 
-<img src="./images/media/image51.png"
+<img src="./images/media/image52.png"
 style="width:6.5in;height:1.9in" />
 
 ### Manually Assigning Location for Photos
@@ -492,14 +503,14 @@ For these cases, locations can be manually assigned by authenticated
 users clicking on the red map pin the upper right-hand corner of the
 image thumbnail (these only show up on those that don’t have location):
 
-<img src="./images/media/image52.png"
+<img src="./images/media/image53.png"
 style="width:2.94792in;height:1.84375in" />
 
 A modal will then popup with instructions how to set the image location
 by clicking on at the desired coordinates on the map view (clicking
 **Cancel** will abort the process). Click **Ok** to continue.
 
-<img src="./images/media/image53.png"
+<img src="./images/media/image54.png"
 style="width:4.40159in;height:2.80281in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -508,7 +519,7 @@ change to a crosshair when hovering over the map. When you have found
 the desired location for the image, simply left-click the mouse to set
 the location:
 
-<img src="./images/media/image54.png"
+<img src="./images/media/image55.png"
 style="width:3.875in;height:2.97917in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -516,52 +527,15 @@ A temporary point will show up on the map in red and a confirmation box
 will pop up to accept the proposed location. Click **Ok** to save the
 changes.
 
-<img src="./images/media/image55.png"
+<img src="./images/media/image56.png"
 style="width:6.20545in;height:3.69741in"
 alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
 
 This will save the changes and hovering over the image again will allow
 you to zoom to the “manually placed image” location:
 
-<img src="./images/media/image56.png"
+<img src="./images/media/image57.png"
 style="width:2.84375in;height:2.16667in" />
-
-## Hiding Photos in a Project
-
-Sometimes when a new project is created, you may find that there are unwanted photos being displayed in the application. If the images are important, such as field notes, it makes more sense to hide them in the app rather than delete them from the file system and running a project sync. If you are the creator of a project, you have the ability to hide photos. This is available once you have an image selection: 
-
-<img src="./images/media/image61.png"
-style="width:5in;" />
-
-To hide the images, hit the "Hide Photos" button to confirm:
-
-<img src="./images/media/image62.png"
-style="width:5in;" />
-
-### Viewing Hidden Images
-
-If there are hidden images, they can be viewed if you are the project owner by clicking the "View Hidden Images" button:
-
-<img src="./images/media/image63.png"
-style="width:5in;" />
-
-Once in the Hidden Images view, you can go back to visible images by hitting the "View Visible Images" button:
-
-
-<img src="./images/media/image64.png"
-style="width:5in;" />
-
-Or, you can make the project photos visible again by starting a new image selection (hit the `Enable Image Selection` button) and selecting the photos you want to make visible to project and hit the "Make Selected Images Visible" button:
-
-<img src="./images/media/image65.png"
-style="width:5in;" />
-
-Hit the "Show Photos" button to confirm that you want to un-hide the images from the project:
-
-<img src="./images/media/image66.png"
-style="width:5in;" />
-
-This will make the images visible again. If there are no more visible images left, it will automatically switch back to the visible image view.
 
 ## Sharing a Project
 
@@ -569,7 +543,7 @@ To share a project with a client, simply hit the green share button on
 the project card. This will copy the link to the public viewer to the
 clipboard.
 
-<img src="./images/media/image57.png"
+<img src="./images/media/image58.png"
 style="width:3.97756in;height:3.66667in" />
 
 This will provide a link to the public viewer and will also include a
@@ -579,7 +553,7 @@ token is missing. Also, be aware that each project has its own unique
 public access token, and the public access token for one project will
 not work for another.
 
-<img src="./images/media/image58.png"
+<img src="./images/media/image59.png"
 style="width:6.48958in;height:2.84375in" />
 
 ## Feedback and Changelog
@@ -589,14 +563,14 @@ therefore ongoing maintenance will also be handled in house. As a user
 of this application you can see the version number highlighted in orange
 in the bottom of the Action Panel:
 
-<img src="./images/media/image59.png"
+<img src="./images/media/image60.png"
 style="width:3.11458in;height:1.39583in" />
 
 Bug fixes and issues are tracked with each version number. When hovering
 over this version, a menu pops up with options to “Show Changelog”,
 “Submit an Issue”, or “Submit a Feature Request”.
 
-<img src="./images/media/image60.png"
+<img src="./images/media/image61.png"
 style="width:5.22917in;height:1.92708in" />
 
 The **Show Changelog** button will open the public Github repository for

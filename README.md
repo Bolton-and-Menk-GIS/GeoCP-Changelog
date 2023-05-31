@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.6.0...v2.7.0) (2023-05-31)
+
+
+### Features
+
+* added sentry for bug monitoring ([7ddf01a](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/7ddf01a42838d54cecc22a09af5e6a35f32a678d))
+* allow project creators to delete projects ([9ba943f](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/9ba943f09a17c5de42e9dd0d11898571e7b54cb8))
+* **project-details:** allow project creators to delete projects ([a99a058](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/a99a058509d30ea8fbc3c592c2e7d599632f5405))
+
 ## [2.6.0](https://github.com/Bolton-and-Menk/geocp-projects/compare/v2.5.5...v2.6.0) (2023-03-13)
 
 
