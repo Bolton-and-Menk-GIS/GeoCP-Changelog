@@ -467,8 +467,9 @@ style="width:6.5in;height:4.83542in"
 alt="A screenshot of a computer Description automatically generated with medium confidence" />
 
 To confirm you want to make the selected images visible again from the
-project view, hit the “Show Photos” button from the popup when
-prompted:<img src="./images/media/image48.png"
+project view, hit the “Show Photos” button from the popup when prompted:
+
+<img src="./images/media/image48.png"
 style="width:5.45745in;height:3.97764in"
 alt="A screenshot of a phone Description automatically generated with medium confidence" />
 
