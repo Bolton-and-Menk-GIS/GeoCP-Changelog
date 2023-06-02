@@ -15,13 +15,6 @@
     - <a href="#adding-image-tags" id="toc-adding-image-tags">Adding Image
       Tags</a>
     - <a href="#hiding-images" id="toc-hiding-images">Hiding Images</a>
-    - <a
-      href="#a-screenshot-of-a-phone-description-automatically-generated-with-medium-confidence"
-      id="toc-a-screenshot-of-a-phone-description-automatically-generated-with-medium-confidence"><img
-      src="./images/media/image46.png"
-      style="width:4.14894in;height:3.24025in"
-      alt="A screenshot of a phone Description automatically generated with medium confidence" /></a>
-    - <a href="#section" id="toc-section"></a>
     - <a href="#unhiding-photos" id="toc-unhiding-photos">Unhiding Photos</a>
     - <a href="#filtering" id="toc-filtering">Filtering</a>
     - <a href="#manually-assigning-location-for-photos"
