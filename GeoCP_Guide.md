@@ -14,6 +14,15 @@
   - <a href="#advanced-usage" id="toc-advanced-usage">Advanced Usage</a>
     - <a href="#adding-image-tags" id="toc-adding-image-tags">Adding Image
       Tags</a>
+    - <a href="#hiding-images" id="toc-hiding-images">Hiding Images</a>
+    - <a
+      href="#a-screenshot-of-a-phone-description-automatically-generated-with-medium-confidence"
+      id="toc-a-screenshot-of-a-phone-description-automatically-generated-with-medium-confidence"><img
+      src="./images/media/image46.png"
+      style="width:4.14894in;height:3.24025in"
+      alt="A screenshot of a phone Description automatically generated with medium confidence" /></a>
+    - <a href="#section" id="toc-section"></a>
+    - <a href="#unhiding-photos" id="toc-unhiding-photos">Unhiding Photos</a>
     - <a href="#filtering" id="toc-filtering">Filtering</a>
     - <a href="#manually-assigning-location-for-photos"
       id="toc-manually-assigning-location-for-photos">Manually Assigning
@@ -425,6 +434,44 @@ available for filtering.
 style="width:5.76576in;height:2.77323in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
+### Hiding Images
+
+Selected images can also be hidden by the **original creator of the
+project**. This is useful when unwanted images have shown up in the
+project that were not intended to be viewed. They can be hidden by
+clicking on the “Make Selected Images Invisible”, which will set their
+“visible” flag to false and will hide the photos. On the popup, hit
+“Hide Photos” to confirm you want to hide the selection.
+
+<img src="./images/media/image45.png"
+style="width:6.02123in;height:4.34931in" />
+
+### <img src="./images/media/image46.png"
+style="width:4.14894in;height:3.24025in"
+alt="A screenshot of a phone Description automatically generated with medium confidence" />
+
+### 
+
+### Unhiding Photos
+
+If the project creator has hidden any photos in the past, they can also
+be made visible again from the “View Hidden Images” action. From the
+Hidden Images view, you can click the “Enable Image Selection” to select
+the hidden images that you want to unhide. Once there is a selection
+made, you can choose to “Make Selected Images Visible” to unhide them.
+You can always return to the normal Project Images view by hitting the
+“View Visible Images” action.
+
+<img src="./images/media/image47.png"
+style="width:6.5in;height:4.83542in"
+alt="A screenshot of a computer Description automatically generated with medium confidence" />
+
+To confirm you want to make the selected images visible again from the
+project view, hit the “Show Photos” button from the popup when
+prompted:<img src="./images/media/image48.png"
+style="width:5.45745in;height:3.97764in"
+alt="A screenshot of a phone Description automatically generated with medium confidence" />
+
 ### Filtering
 
 A subset of images can be filtered out using the **Filter Images**
@@ -432,7 +479,7 @@ button in the Action Panel. When clicking this button, a modal window
 pops up with options to filter by date taken, properties, or by image
 tags.
 
-<img src="./images/media/image45.png"
+<img src="./images/media/image49.png"
 style="width:6.5in;height:2.72431in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -442,7 +489,7 @@ by Date** section, the date ranges the photos were taken are displayed
 at the bottom. This is done to help the user select valid dates so that
 results are picked up in the selection:
 
-<img src="./images/media/image46.png"
+<img src="./images/media/image50.png"
 style="width:5.07723in;height:5.26382in"
 alt="Graphical user interface, application, calendar Description automatically generated" />
 
@@ -451,7 +498,7 @@ Properties** options along with any other attributes from the images. A
 date range can be selected by clicking on the calendar to set the start
 and end dates:
 
-<img src="./images/media/image47.png"
+<img src="./images/media/image51.png"
 style="width:5.26234in;height:5.74978in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -461,27 +508,27 @@ point, or you can continue to add more property and tag filters.
 To filter by properties, first use the dropdown to choose a field to
 filter by
 
-<img src="./images/media/image48.png"
+<img src="./images/media/image52.png"
 style="width:5.96875in;height:5.21188in" />
 
 Next select the operator and provide a value. The operator dropdown
 depends on the type of property being used:
 
-<img src="./images/media/image49.png"
+<img src="./images/media/image53.png"
 style="width:5.43275in;height:3.47267in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 In this example, we will filter only by the “Study” image tag we
 provided for 7 photos.
 
-<img src="./images/media/image50.png"
+<img src="./images/media/image54.png"
 style="width:5.881in;height:5.04723in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 Hitting the Apply Filters button will run the filter set. We should only
 see the images we tagged earlier:
 
-<img src="./images/media/image51.png"
+<img src="./images/media/image55.png"
 style="width:6.5in;height:3.26042in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -490,7 +537,7 @@ then hitting Clear Filters, or by hitting the red filter button in the
 bottom right corner (only shows up when there are active filters
 applied).
 
-<img src="./images/media/image52.png"
+<img src="./images/media/image56.png"
 style="width:6.5in;height:1.9in" />
 
 ### Manually Assigning Location for Photos
@@ -503,14 +550,14 @@ For these cases, locations can be manually assigned by authenticated
 users clicking on the red map pin the upper right-hand corner of the
 image thumbnail (these only show up on those that don’t have location):
 
-<img src="./images/media/image53.png"
+<img src="./images/media/image57.png"
 style="width:2.94792in;height:1.84375in" />
 
 A modal will then popup with instructions how to set the image location
 by clicking on at the desired coordinates on the map view (clicking
 **Cancel** will abort the process). Click **Ok** to continue.
 
-<img src="./images/media/image54.png"
+<img src="./images/media/image58.png"
 style="width:4.40159in;height:2.80281in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -519,7 +566,7 @@ change to a crosshair when hovering over the map. When you have found
 the desired location for the image, simply left-click the mouse to set
 the location:
 
-<img src="./images/media/image55.png"
+<img src="./images/media/image59.png"
 style="width:3.875in;height:2.97917in"
 alt="Graphical user interface Description automatically generated" />
 
@@ -527,14 +574,14 @@ A temporary point will show up on the map in red and a confirmation box
 will pop up to accept the proposed location. Click **Ok** to save the
 changes.
 
-<img src="./images/media/image56.png"
+<img src="./images/media/image60.png"
 style="width:6.20545in;height:3.69741in"
 alt="Graphical user interface, text, application, chat or text message Description automatically generated" />
 
 This will save the changes and hovering over the image again will allow
 you to zoom to the “manually placed image” location:
 
-<img src="./images/media/image57.png"
+<img src="./images/media/image61.png"
 style="width:2.84375in;height:2.16667in" />
 
 ## Sharing a Project
@@ -543,7 +590,7 @@ To share a project with a client, simply hit the green share button on
 the project card. This will copy the link to the public viewer to the
 clipboard.
 
-<img src="./images/media/image58.png"
+<img src="./images/media/image62.png"
 style="width:3.97756in;height:3.66667in" />
 
 This will provide a link to the public viewer and will also include a
@@ -553,7 +600,7 @@ token is missing. Also, be aware that each project has its own unique
 public access token, and the public access token for one project will
 not work for another.
 
-<img src="./images/media/image59.png"
+<img src="./images/media/image63.png"
 style="width:6.48958in;height:2.84375in" />
 
 ## Feedback and Changelog
@@ -563,14 +610,14 @@ therefore ongoing maintenance will also be handled in house. As a user
 of this application you can see the version number highlighted in orange
 in the bottom of the Action Panel:
 
-<img src="./images/media/image60.png"
+<img src="./images/media/image64.png"
 style="width:3.11458in;height:1.39583in" />
 
 Bug fixes and issues are tracked with each version number. When hovering
 over this version, a menu pops up with options to “Show Changelog”,
 “Submit an Issue”, or “Submit a Feature Request”.
 
-<img src="./images/media/image61.png"
+<img src="./images/media/image65.png"
 style="width:5.22917in;height:1.92708in" />
 
 The **Show Changelog** button will open the public Github repository for
