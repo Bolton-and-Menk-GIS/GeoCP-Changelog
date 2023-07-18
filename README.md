@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.2](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.7.1...v2.7.2) (2023-07-18)
+
+
+### Bug Fixes
+
+* fix race condition for zooming to photos on initial load ([0b3ab01](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/0b3ab017b8da6caaa3b5c90f9fd23a038187c4f9))
+
 ### [2.7.1](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.7.0...v2.7.1) (2023-05-31)
 
 
