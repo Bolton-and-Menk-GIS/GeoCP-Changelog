@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.8.0](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.7.2...v2.8.0) (2023-08-29)
+
+* upgraded arcgis version
+
 ### [2.7.2](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.7.1...v2.7.2) (2023-07-18)
 
 
