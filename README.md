@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.2](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.1...v2.8.2) (2023-12-06)
+
+
+### Features
+
+* allow location editing for manually placed photos ([4742526](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/4742526bd93f2f5478600d96a333a59506056e74))
+
 ### [2.8.1](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.0...v2.8.1) (2023-10-20)
 
 
