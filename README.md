@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.3](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.2...v2.8.3) (2024-05-06)
+
+
+### Features
+
+* **projects:** support new project number format ([684ff7c](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/684ff7c87ba306c8084a766083cf59e9a84b490c))
+
 ### [2.8.2](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.1...v2.8.2) (2023-12-06)
 
 
