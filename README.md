@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.4](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.3...v2.8.4) (2024-05-16)
+
+
+### Features
+
+* enabled Matomo for analytics ([34cff0a](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/34cff0a1fd18f7afa2ed87d611262ff7ee145e6c))
+* track common events with matomo ([6ca157e](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/6ca157e1750abc2222bca450943a6d24b2230e91))
+* **UserInfo:** use avatar url from azure ([3a33b2b](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/3a33b2bfdefd6c88c29d60cacfb616c852629cab)) 
+
 ### [2.8.3](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.2...v2.8.3) (2024-05-06)
 
 
