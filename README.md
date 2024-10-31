@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.5](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.4...v2.8.5) (2024-10-31)
+
+
+### Features
+
+* **Home:** added recently updated filter ([790db66](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/790db661a8d2ba27f951324ebeb9343b5d5571ca))
+* **Home:** allow search by creator ([599ccf6](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/599ccf685768984f78558362e771e1d6b3fa9ba9))
+* **ImageGallery:** added button to expand/collapse all folders ([05d2032](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/05d203288cbc4d6a3b7635c64d4801b4f6f61af3))
+* **ProjectCard:** show last edited date ([5646245](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/564624518f7ef88262c04b6123c060e5c36dfc07))
+
+
+### Bug Fixes
+
+* **App:** do not load projects on app page ([4ca0879](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/4ca08793a59ea6cf052c0c3ee4f55c837610564f))
+
 ### [2.8.4](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.3...v2.8.4) (2024-05-16)
 
 
