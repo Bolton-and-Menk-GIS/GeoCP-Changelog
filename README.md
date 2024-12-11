@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.6](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.5...v2.8.6) (2024-12-11)
+
+
+### Bug Fixes
+
+* **shapefile:** alter fields for shapefile export ([2dcead1](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/2dcead120efd20cc7c5d726059c7ca6cc734f327))
+* **UserInfo:** fix broken link for user avatar image ([eca2411](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/eca241130f9ee825f9c7bbb54d141571f3205b79))
+
 ### [2.8.5](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.4...v2.8.5) (2024-10-31)
 
 
