@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.8.7](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.6...v2.8.7) (2025-01-22)
+
+
+### Features
+
+* **ActionPanel:** added ability to delete photos ([dfa560b](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/dfa560b4577e779aa7ed886d52840825414de749))
+
 ### [2.8.6](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.5...v2.8.6) (2024-12-11)
 
 
