@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.9.0](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.7...v2.9.0) (2025-02-07)
+
+
+### Features
+
+* added project area viewer ([1847af7](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/1847af753a558ccda1b4c896d9a0900fa4c64f82))
+* calculate time range for project area viewer ([d7c9c33](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/d7c9c33fdc7f24ebca1c04a56fee2163d8d70df5))
+* move current project photos to top in project area viewer ([8b714c3](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/8b714c30255a171c2f03cd3bb226292099a8f34c))
+
 ### [2.8.7](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.6...v2.8.7) (2025-01-22)
 
 
