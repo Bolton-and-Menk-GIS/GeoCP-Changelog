@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.10.0](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.9.0...v2.10.0) (2025-03-17)
+
+
+### Bug Fixes
+
+* do not show project area boundary unless in project area viewer ([e5b45a2](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/commit/e5b45a25a6eff8eba7307abe938200962221af3c))
+
+
 ## [2.9.0](https://gitlab.com/bolton-and-menk/internal-apps/geocp-projects/compare/v2.8.7...v2.9.0) (2025-02-07)
 
 
